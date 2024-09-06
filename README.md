@@ -4,7 +4,7 @@ This project is a database system designed to handle customer accounts, transact
 
 Here’s a structure and content outline for a **Banking Transaction System** project repository on GitHub:
 
-### ** Repository Structure**
+## Repository Structure
 
 ```
 Banking-Transaction-System/
